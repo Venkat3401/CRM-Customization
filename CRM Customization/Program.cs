@@ -10,6 +10,7 @@ namespace CRM_Customization
     {
         static void Main(string[] args)
         {
+            Console.WriteLine("Test");
         }
     }
 }
